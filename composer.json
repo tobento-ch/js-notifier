@@ -1,0 +1,19 @@
+{
+    "name": "tobento/js-notifier",
+    "type": "library",
+    "description": "Simple JavaScript notifier to show notifications.",
+    "keywords": [
+        "tobento",
+        "notifier",
+        "notification"
+    ],
+    "homepage": "https://www.tobento.ch",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tobias Strub",
+            "email": "info@tobento.ch",
+            "homepage": "https://www.tobento.ch"
+        }
+    ]
+}
