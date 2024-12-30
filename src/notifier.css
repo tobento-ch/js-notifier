@@ -1,5 +1,6 @@
 @charset "utf-8";
 .notification {
+  --nfc-background-color: #fff;
   --nfc-color: #cacaca;
 }
 /* Levels */
@@ -32,6 +33,7 @@
   overflow: hidden;
   border-radius: .5rem;
   padding: .5rem;
+  background-color: var(--nfc-background-color);
   border: 1px solid var(--nfc-color);
 }
 .notification:not(:first-of-type) {margin-top: 1rem;}
